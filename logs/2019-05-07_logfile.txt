@@ -1,0 +1,96 @@
+2019-05-07 16:41:34.5022 INFO Here is info message from our values controller.
+2019-05-07 16:41:34.5504 DEBUG Here is debug message from our values controller.
+2019-05-07 16:41:34.5537 WARN Here is warn message from our values controller.
+2019-05-07 16:41:34.5545 ERROR Here is error message from our values controller.
+2019-05-07 16:42:03.2479 INFO Here is info message from our values controller.
+2019-05-07 16:42:03.2492 DEBUG Here is debug message from our values controller.
+2019-05-07 16:42:03.2496 WARN Here is warn message from our values controller.
+2019-05-07 16:42:03.2496 ERROR Here is error message from our values controller.
+2019-05-07 17:31:12.6275 INFO Here is info message from our values controller.
+2019-05-07 17:31:12.6543 DEBUG Here is debug message from our values controller.
+2019-05-07 17:31:12.6546 WARN Here is warn message from our values controller.
+2019-05-07 17:31:12.6559 ERROR Here is error message from our values controller.
+2019-05-07 17:31:13.5480 INFO John Keen
+
+2019-05-07 17:31:13.5486 INFO Anna Bosh
+
+2019-05-07 17:31:13.5486 INFO Nick Somion
+
+2019-05-07 17:31:13.5486 INFO Sam Query
+
+2019-05-07 17:31:13.5497 INFO Martin Miller
+
+2019-05-07 17:34:06.5195 INFO Here is info message from our values controller.
+2019-05-07 17:34:06.5206 DEBUG Here is debug message from our values controller.
+2019-05-07 17:34:06.5206 WARN Here is warn message from our values controller.
+2019-05-07 17:34:06.5206 ERROR Here is error message from our values controller.
+2019-05-07 17:34:06.5387 INFO John Keen
+
+2019-05-07 17:34:06.5387 INFO Anna Bosh
+
+2019-05-07 17:34:06.5387 INFO Nick Somion
+
+2019-05-07 17:34:06.5393 INFO Sam Query
+
+2019-05-07 17:34:06.5393 INFO Martin Miller
+
+2019-05-07 17:34:22.4898 INFO Here is info message from our values controller.
+2019-05-07 17:34:22.4909 DEBUG Here is debug message from our values controller.
+2019-05-07 17:34:22.4909 WARN Here is warn message from our values controller.
+2019-05-07 17:34:22.4915 ERROR Here is error message from our values controller.
+2019-05-07 17:34:22.5266 INFO John Keen
+
+2019-05-07 17:34:22.5276 INFO Anna Bosh
+
+2019-05-07 17:34:22.5285 INFO Nick Somion
+
+2019-05-07 17:34:22.5285 INFO Sam Query
+
+2019-05-07 17:34:22.5298 INFO Martin Miller
+
+2019-05-07 17:34:42.9559 INFO Here is info message from our values controller.
+2019-05-07 17:34:42.9569 DEBUG Here is debug message from our values controller.
+2019-05-07 17:34:42.9569 WARN Here is warn message from our values controller.
+2019-05-07 17:34:42.9569 ERROR Here is error message from our values controller.
+2019-05-07 17:34:42.9684 INFO John Keen
+
+2019-05-07 17:34:42.9687 INFO Anna Bosh
+
+2019-05-07 17:34:42.9687 INFO Nick Somion
+
+2019-05-07 17:34:42.9687 INFO Sam Query
+
+2019-05-07 17:34:42.9687 INFO Martin Miller
+
+2019-05-07 17:48:00.6174 INFO Here is info message from our values controller.
+2019-05-07 17:48:00.6427 DEBUG Here is debug message from our values controller.
+2019-05-07 17:48:00.6436 WARN Here is warn message from our values controller.
+2019-05-07 17:48:00.6436 ERROR Here is error message from our values controller.
+2019-05-07 17:48:01.4843 INFO John Keen
+
+2019-05-07 17:48:01.4849 INFO Anna Bosh
+
+2019-05-07 17:48:01.4849 INFO Nick Somion
+
+2019-05-07 17:48:01.4855 INFO Sam Query
+
+2019-05-07 17:48:01.4855 INFO Martin Miller
+
+2019-05-07 17:49:13.6627 INFO Returned all owners from database.
+2019-05-07 17:51:00.9386 INFO Returned all owners from database.
+2019-05-07 17:53:10.5897 INFO Returned all owners from database.
+2019-05-07 17:53:21.7941 INFO Here is info message from our values controller.
+2019-05-07 17:53:21.8184 DEBUG Here is debug message from our values controller.
+2019-05-07 17:53:21.8191 WARN Here is warn message from our values controller.
+2019-05-07 17:53:21.8191 ERROR Here is error message from our values controller.
+2019-05-07 17:53:22.6686 INFO John Keen
+
+2019-05-07 17:53:22.6686 INFO Anna Bosh
+
+2019-05-07 17:53:22.6694 INFO Nick Somion
+
+2019-05-07 17:53:22.6694 INFO Sam Query
+
+2019-05-07 17:53:22.6705 INFO Martin Miller
+
+2019-05-07 17:53:27.8510 INFO Returned all owners from database.
