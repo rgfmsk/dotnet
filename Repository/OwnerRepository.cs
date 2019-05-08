@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Entities;
 using Entities.ExtendedModels;
+using Entities.Extensions;
 using Entities.Models;
 
 namespace Repository
@@ -38,6 +39,17 @@ namespace Repository
         {
             o.Id = Guid.NewGuid();
             Create(o);
+        }
+
+        public void UpdateOwner(Owner dbOwner, Owner owner)
+        {
+            dbOwner.Map(owner);
+            Update(dbOwner);
+        }
+
+        public void DeleteOwner(Owner owner)
+        {
+            Delete(owner);
         }
     }
 }
